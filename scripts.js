@@ -177,7 +177,7 @@ const movieData = {
       director: "Charles Shyer",
       starring: " Steve Martin, Diane Keaton, Martin Short",
       watch: "Disney Hotstar, Hulu",
-      poster: "images/Father of The Bride.png"
+      poster: "images/Father Of The Bride.png"
     },
     movie19: {
       title: "Behind Her Eyes",
